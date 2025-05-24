@@ -1,6 +1,6 @@
 # Cursor Launcher
 
-A plugin for Obsidian that allows you to quickly open any folder in your vault with Cursor IDE.
+A plugin that allows you to quickly open any folder in your vault with Cursor IDE.
 
 ## Features
 - Right-click on any folder in your vault to open it in Cursor
@@ -8,7 +8,7 @@ A plugin for Obsidian that allows you to quickly open any folder in your vault w
 - Simple and intuitive interface
 
 ## Installation
-1. Open Obsidian Settings
+1. Open Settings
 2. Go to Community Plugins
 3. Turn off Safe Mode
 4. Click Browse and search for "Cursor Launcher"

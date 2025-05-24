@@ -1,7 +1,7 @@
 {
   "id": "cursor-launcher",
   "name": "Cursor Launcher",
-  "version": "1.0.0",
+  "version": "v1.0.0",
   "minAppVersion": "1.1.0",
   "description": "Quickly open any folder in your vault with Cursor IDE. Adds a context menu option to launch Cursor directly from your folder structure.",
   "author": "NGAFTA",
