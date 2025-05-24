@@ -1,9 +1,9 @@
 {
   "id": "cursor-launcher",
   "name": "Cursor Launcher",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minAppVersion": "1.1.0",
-  "description": "Quickly open any folder in your Obsidian vault with Cursor IDE. Adds a context menu option to launch Cursor directly from your vault's folder structure.",
+  "description": "Quickly open any folder in your vault with Cursor IDE. Adds a context menu option to launch Cursor directly from your folder structure.",
   "author": "NGAFTA",
   "authorUrl": "https://ngafta.ru",
   "isDesktopOnly": true,
